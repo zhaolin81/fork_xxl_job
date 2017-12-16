@@ -1,7 +1,9 @@
 # 《分布式任务调度平台XXL-JOB》
+
 forked from
 
 https://github.com/xuxueli/xxl-job
+
 
 ##基于xxl-job 1.7.2 扩展以下功能
 - 1、调度平台迁移至Springboot 1.4.5.RELEASE，配置改为javaconfig，内嵌容器启动
